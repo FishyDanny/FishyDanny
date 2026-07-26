@@ -24,9 +24,10 @@ trading marketplace, multi-tenancy, RBAC, Stripe subscriptions.
 Discord — voice command in, executed work and a report out. Subscription product on an agent
 orchestration layer.
 
-**[Recipe Browser](https://recipe-browser-lime.vercel.app)** — _live demo_ · Social recipe platform.
-Pass a recipe by QR code, rescale quantities to any serving size, cook it hands-free with a
-wake-locked step view. Next.js App Router, Prisma, Better Auth, Stripe, Playwright.
+**[Recipe Browser](https://recipe-browser-lime.vercel.app)** — _try it live_ · Social recipe platform
+built around the handoff: pass a recipe by QR code, rescale quantities to any serving size, cook it
+hands-free in a wake-locked step view. Next.js App Router, Prisma, Better Auth, Playwright end-to-end
+tests, and a subscription tier with entitlements resolved in one typed module.
 
 ## Public code
 
