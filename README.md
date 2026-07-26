@@ -40,12 +40,14 @@ wake-locked step view. Next.js App Router, Prisma, Better Auth, Stripe, Playwrig
 
 ## What I work with
 
-**Languages** TypeScript · Python · SQL
-**Web** Next.js (App Router) · React · Tailwind · Prisma · PostgreSQL
-**AI/Agents** LLM agent orchestration · tool-use pipelines · MCP servers · prompt and eval workflows
-**ML/Optimisation** TensorFlow/Keras · scikit-learn · SHAP · OR-Tools CP-SAT · pandas
-**Testing** Playwright · Jest · pytest
-**Ops** Docker · GitHub Actions · Vercel · Redis · Sentry · Stripe
+|                       |                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| **Languages**         | TypeScript · Python · SQL                                                              |
+| **Web**               | Next.js (App Router) · React · Express · Tailwind · Prisma · PostgreSQL                |
+| **AI / Agents**       | LLM agent orchestration · tool-use pipelines · MCP servers · prompt and eval workflows |
+| **ML / Optimisation** | TensorFlow/Keras · scikit-learn · SHAP · OR-Tools CP-SAT · pandas                      |
+| **Testing**           | Playwright · Jest · pytest                                                             |
+| **Ops**               | Docker · GitHub Actions · Vercel · Redis · Sentry · Stripe                             |
 
 ## How I work
 
